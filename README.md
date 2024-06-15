@@ -9,6 +9,6 @@
 -  moneshd16@gmail.com (mail-ID)
  - MONESH D (linkedin)
 
-- 😄 Pronouns:
+- 😄 Pronouns: Tech Enthusiastic
 - ⚡ Fun fact: ex-professional cricketer
 -->
