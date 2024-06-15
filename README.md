@@ -6,9 +6,9 @@
 - 🤔 I’m looking for help with Development Oriented
 - 💬 Ask me about Tech
 - 📫 How to reach me:
--  moneshd16@gmail.com (mail-ID)
- - MONESH D (linkedin)
+-  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+ moneshd16@gmail.com 
+-  
 
-- 😄 Pronouns: Tech Enthusiastic
-- ⚡ Fun fact: ex-professional cricketer
--->
+- 😄 Pronouns: Tech Enthusiastic 😎
+- ⚡ Fun fact: ex-professional cricketer 
