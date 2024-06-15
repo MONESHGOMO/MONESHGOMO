@@ -11,11 +11,11 @@
 - Pronouns: Tech Enthusiastic 😎
 - ⚡ Fun fact: ex-professional cricketer 
 
-** I used to code in **
+### I used to code in 
 ![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/98adf7e8-1d2b-4d61-ae4b-b1d79019f1d3)
 ![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/447a13dd-b5a8-4a10-8611-cd3d80fd9b5b)
 
-** Tools i use **
+### Tools i use 
 
 ![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/f1964332-0e3f-4d59-af16-cf625a8d08d9)
 ![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/8b50fe41-94ca-4274-bc26-08ba356f1008)
