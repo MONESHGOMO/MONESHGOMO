@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ex-professional cricketer 
 ***
 i code in 
-![image]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
