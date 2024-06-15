@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with Development Oriented
 - 💬 Ask me about Tech
 - 📫 How to reach me:
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- moneshd16@gmail.com 
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.moneshd16@gmail.com)
 -  
 
 - 😄 Pronouns: Tech Enthusiastic 😎
