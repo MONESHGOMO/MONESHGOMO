@@ -1,6 +1,6 @@
 ## Hi there 👋  it's me MONESH
 
-- ☘️ Bio-Maths student (75.4) to Software Engineering 
+-  Bio-Maths student to Software Engineering 
 - 🔭 I’m currently doing my Information Technology (B.Tech) 1st year 
 - 🌱 I’m currently learning Backend Web Development
 - 👯 I’m looking to collaborate with placements on Zoho,Amazon,Qualcomm 
