@@ -2,15 +2,15 @@
 
 -  Bio-Maths student to Software Engineering 
 - 🔭 I’m currently doing my Information Technology (B.Tech) 1st year 
-- 🌱 I’m currently learning Backend Web Development
+- 🌱 I’m currently learning Backend Web Development 
 - 👯 I’m looking to collaborate with placements on Zoho,Amazon,Qualcomm 
 - 🤔 I’m looking for help with Development Oriented
 - 💬 Ask me about Tech
 - 📫 How to reach me:
 - [THIS IS MY MAIL-ID] (moneshd16@gmail.com)
-- [THIS IS MY LIKEDIN PROFILE] (https://www.linkedin.com/in/monesh-d-5b507a2b1)
+- [THIS IS MY LINKEDIN PROFILE] (https://www.linkedin.com/in/monesh-d-5b507a2b1)
 - Pronouns: Tech Enthusiastic 😎
-- ⚡ Fun fact: ex-professional cricketer 
+- ⚡ Fun fact: Ex-professional cricketer 
 
 ### I used to code in 
 ![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/98adf7e8-1d2b-4d61-ae4b-b1d79019f1d3)
