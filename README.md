@@ -13,7 +13,8 @@
 - ⚡ Fun fact: Ex-professional cricketer 
 
 ### I used to code in 
-![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/98adf7e8-1d2b-4d61-ae4b-b1d79019f1d3)
+<img src="java_logo.jpg" alt="Description of the image" width="50" height="50">
+
 ![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/447a13dd-b5a8-4a10-8611-cd3d80fd9b5b)
 
 ### IDE & TOOLS i used
