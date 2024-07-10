@@ -13,9 +13,9 @@
 - ⚡ Fun fact: Ex-professional cricketer 
 
 ### I used to code in 
-<img src="java_logo.jpg" alt="Description of the image" width="50" height="50">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java_logo.jpg"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python_logo.png"/>
 
-![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/447a13dd-b5a8-4a10-8611-cd3d80fd9b5b)
 
 ### IDE & TOOLS i used
 
