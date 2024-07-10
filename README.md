@@ -13,7 +13,10 @@
 - ⚡ Fun fact: Ex-professional cricketer 
 
 ### I used to code in 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java_logo.jpg"/>
+
+<img height="50" width="50" src="java_logo.jpg">
+
+
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python_logo.png"/>
 
 
