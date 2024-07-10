@@ -14,21 +14,21 @@
 
 ### I used to code in 
 
-<img height="50" width="50" src="java_logo.jpg">
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python_logo.png"/>
 
 
 ### IDE & TOOLS i used
 
-![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/f1964332-0e3f-4d59-af16-cf625a8d08d9)
-![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/8b50fe41-94ca-4274-bc26-08ba356f1008)
-![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/3b285427-c8d3-4f2f-92cb-df9e57ed9da9)
-![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/0a8b9bea-27ab-458d-bf99-38215760ff49)
-![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/9060ec2d-c63b-432c-a733-95101623ce95)
-![image](https://github.com/MONESHGOMO/MONESHGOMO/assets/167512723/ce119d43-5a78-41f7-adeb-9d7377432098)
-
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
+<img width="50" height="50" src="https://img.icons8.com/office/16/java-eclipse.png" alt="java-eclipse"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/chatgpt--v1.png" alt="chatgpt--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/bard.png" alt="bard"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-copilot.png" alt="microsoft-copilot"/>
 
 
 
