@@ -18,7 +18,7 @@
 
 
 
-### IDE & TOOLS i used
+### IDE & Tools i used
 
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/> <img width="50" height="50" src="https://img.icons8.com/officexs/16/java-eclipse.png" alt="java-eclipse"/><img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/chatgpt--v1.png" alt="chatgpt--v1"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/bard.png" alt="bard"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-copilot.png" alt="microsoft-copilot"/>
 
