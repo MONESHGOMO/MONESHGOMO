@@ -3,7 +3,7 @@
 -  Bio-Maths student to Software Engineering
 - 🔭 I’m currently doing my Information Technology (B.Tech) 2nd year 
 - 🌱 I’m currently learning DSA 
-- 👯 I’m looking to collaborate on WEB DEVELOPMENT
+- 👯 I’m looking to collaborate on both frontend and backend web-development 
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
 - 💬 Ask me about Tech
 - 📫 How to reach me:
