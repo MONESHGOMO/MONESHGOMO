@@ -14,7 +14,7 @@
 
 ### I used to code in 
 
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="50" height="50" src="https://img.icons8.com/color/50/mysql-logo.png" alt="mysql-logo"/>
 
 
 
