@@ -1,16 +1,18 @@
 ## Hi there 👋  it's me MONESH
 
--  Bio-Maths student to Software Engineering
+- Bio-Maths student to Software Engineering
 - 🔭 I’m currently doing my Information Technology (B.Tech) 2nd year 
 - 🌱 I’m currently learning DSA 
-- 👯 I’m looking to collaborate on  backend web-development 
+- 👯 I’m looking to collaborate on  backend development 
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
 - 💬 Ask me about Tech
+-  Curious to know more about me  👉🏽 [Portfolio](https://moneshgomo.netlify.app/)
 - 📫 How to reach me:
  <br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/moneshgomo/)
   <br>
+
 - Pronouns: Tech Enthusiastic 😎
-- ⚡ Fun fact: Ex-professional cricketer .
+- ⚡ Fun fact: Ex-professional cricketer 🏏 .
 
 ### I used to code in 
 
