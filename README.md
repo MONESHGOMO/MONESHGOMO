@@ -15,7 +15,7 @@
 <h1>My Tech Stack:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=java,spring,git,maven,mysql,redis,eclipse,idea,vscode,postman,netlify,py,html,css,windows&theme=dark"/>
+ <img src="https://skillicons.dev/icons?i=java,spring,git,maven,mysql,eclipse,idea,vscode,postman,netlify,py,html,css,windows&theme=dark"/>
   </a>
 </p>
 
