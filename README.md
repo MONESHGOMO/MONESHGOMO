@@ -1,4 +1,4 @@
-## Hi there 👋  it's me MONESH
+## Hi there 👋  it's me Monesh here
 
 - Bio-Maths student to Software Engineering
 - 🔭 I’m currently doing my Information Technology (B.Tech) 2nd year 
