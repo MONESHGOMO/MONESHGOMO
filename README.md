@@ -19,9 +19,5 @@
   </a>
 </p>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MONESHGOMO&bg_color=080708&color=e7f3f4&line=76c039&point=16d459&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
 
