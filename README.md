@@ -7,8 +7,9 @@
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
 - 💬 Ask me about Tech
 -  Curious to know more about me  👉🏽 [🌐](https://moneshgomo.netlify.app/)
-- 📫 Let's connect : [Let's connect](https://www.linkedin.com/in/moneshgomo/)  
-  
+- 📫 Let's connect : [Let's connect](https://www.linkedin.com/in/moneshgomo/)
+-  🖥️ ⚙️ Currently solving problems from [Kunal Kushwaha BootCamp](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
+
 -  Pronouns: Tech Enthusiastic 😎
 - ⚡ Fun fact: Ex-professional cricketer 🏏
 
@@ -21,3 +22,6 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MONESHGOMO&bg_color=0a0a0a&color=fafafa&line=09f15a&point=f7f3f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/moneshprogrammer?theme=dark&font=Marcellus&ext=heatmap)
