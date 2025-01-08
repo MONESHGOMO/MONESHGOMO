@@ -8,7 +8,6 @@
 - 💬 Ask me about Tech
 -  Curious to know more about me  👉🏽 [🌐](https://moneshgomo.netlify.app/)
 - 📫 Let's connect : [Let's connect](https://www.linkedin.com/in/moneshgomo/)
--  🖥️ ⚙️ Currently solving problems from [Kunal Kushwaha BootCamp](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
 
 -  Pronouns: Tech Enthusiastic 😎
 - ⚡ Fun fact: Ex-professional cricketer 🏏
@@ -25,4 +24,3 @@
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/moneshprogrammer?theme=dark&font=Marcellus&ext=contest)
