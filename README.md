@@ -1,5 +1,12 @@
-## Hi there 👋  it's me Monesh here
+### Hi there 👋  it's me Monesh here
+``` java
+public class Welcome{
+    public static void main(String[] args) {
+        System.out.println("Welcome to my  GitHub Repository!");
+    }
+}
 
+```
 - Bio-Maths student to Software Engineering
 - 🔭 I’m currently doing my Information Technology (B.Tech) 2nd year 
 - 🌱 I’m currently learning DSA 
@@ -7,10 +14,18 @@
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
 - 💬 Ask me about Tech
 - 😊 Curious to know more about me  👉🏽 [🌐](https://moneshgomo.netlify.app/)
-- 📫 Let's connect : [Let's connect](https://www.linkedin.com/in/moneshgomo/)
 
+  <p >
+  <a href="https://www.linkedin.com/in/moneshgomo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:moneshprogrammer@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
+  </a>
+</p>
 
-<h1>My Tech Stack:</h1>
+***
+### My Tech Stack
 <p>
   <!-- Programming Languages -->
   <a href="https://skillicons.dev">
