@@ -8,6 +8,10 @@
 - 💬 Ask me about Tech
 -  Curious to know more about me  👉🏽 [🌐](https://moneshgomo.netlify.app/)
 - 📫 Let's connect : [Let's connect](https://www.linkedin.com/in/moneshgomo/)
+- <a href="moneshprogrammer@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40"/>
+</a>
+
 
 <h1>My Tech Stack:</h1>
 <p align="center">
