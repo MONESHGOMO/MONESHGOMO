@@ -9,9 +9,6 @@
 -  Curious to know more about me  👉🏽 [🌐](https://moneshgomo.netlify.app/)
 - 📫 Let's connect : [Let's connect](https://www.linkedin.com/in/moneshgomo/)
 
--  Pronouns: Tech Enthusiastic 😎
-- ⚡ Fun fact: Ex-professional cricketer 🏏
-
 <h1>My Tech Stack:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
