@@ -7,8 +7,9 @@ public class Welcome{
 }
 
 ```
+
 - Bio-Maths student to Software Engineering
-- 🔭 I’m currently doing my Information Technology (B.Tech) 2nd year 
+- 🔭 I’m currently in my 2nd year, pursuing a degree in Information Technology.
 - 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on  backend development 
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
