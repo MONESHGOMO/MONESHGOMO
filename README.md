@@ -1,12 +1,5 @@
 ### Hi there 👋  it's me Monesh here
-``` java
-public class Welcome{
-    public static void main(String[] args) {
-        System.out.println("Welcome to my  GitHub Repository!");
-    }
-}
 
-```
 
 - Bio-Maths student to Software Engineering
 - 🔭 I’m currently in my 2nd year, pursuing a degree in Information Technology.
@@ -14,7 +7,7 @@ public class Welcome{
 - 👯 I’m looking to collaborate on  backend development 
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
 - 💬 Ask me about Tech
-- 😊 Curious to know more about me  👉🏽 [🌐](https://moneshgomo.netlify.app/)
+- 😊 Curious to know more about me  👉🏽 [🌐](https://monesh-gomo.web.app/)
 
   <p >
   <a href="https://www.linkedin.com/in/moneshgomo/" target="_blank">
