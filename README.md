@@ -35,7 +35,7 @@
 <p>
   <!-- Tools -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,netlify,windows&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,firebase,netlify,windows&theme=dark"/>
   </a>
 </p>
 
