@@ -1,8 +1,8 @@
 ### Hi there 👋  it's me Monesh here
 
-
-- Bio-Maths student to Software Engineering
-- 🔭 I’m currently in my 2nd year, pursuing a degree in Information Technology.
+- 🧬 **from : Biology**
+- 🖥️ **to: Technology**
+-  🔭 I’m currently in my 2nd year, pursuing a degree in Information Technology.
 - 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on  backend development 
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
