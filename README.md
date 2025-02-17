@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on  backend development 
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
 - 💬 Ask me about Tech
-- 😊 Curious to know more about me  👉🏽 [🌐](https://monesh-gomo.web.app/)
+- 😊 Curious to know more about me  👉🏽 [🌐](https://moneshgomo.netlify.app/)
 
   <p >
   <a href="https://www.linkedin.com/in/moneshgomo/" target="_blank">
