@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on  backend development 
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
-- 💬 Ask me about Tech
+- 🧿 I am eager to discover and learn new things.
 - 😊 Curious to know more about me  👉🏽 [🌐](https://moneshgomo.netlify.app/)
 
   <p >
