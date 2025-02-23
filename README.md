@@ -13,11 +13,7 @@
   <a href="https://www.linkedin.com/in/moneshgomo/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
   </a>
-  <a href="mailto:moneshprogrammer@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
-  </a>
-</p>
-
+ </p>
 ***
 ### My Tech Stack
 <p>
