@@ -18,7 +18,7 @@
 ***
 
 
-### My Tech Stack
+***I code in***
 <p>
   <!-- Programming Languages -->
   <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@
 <p>
   <!-- Tools -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,firebase,netlify,windows&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,firebase,netlify,notion,windows&theme=dark"/>
   </a>
 </p>
 
