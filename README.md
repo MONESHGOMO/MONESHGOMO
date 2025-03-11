@@ -18,7 +18,7 @@
 ***
 
 
-***I code in***
+***My Tech Stack And Tools***
 <p>
   <!-- Programming Languages -->
   <a href="https://skillicons.dev">
@@ -37,6 +37,10 @@
     <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,firebase,netlify,notion,windows&theme=dark"/>
   </a>
 </p>
+
+***
+
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MONESHGOMO&bg_color=0a0a0a&color=fafafa&line=09f15a&point=f7f3f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
