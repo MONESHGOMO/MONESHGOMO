@@ -4,7 +4,7 @@
 - 🖥️ **to: Technology**
 -  🔭 I’m currently in my 2nd year, pursuing a degree in Information Technology.
 - 🌱 I’m currently learning DSA 
-- 👯 I’m looking to collaborate on  backend development 
+- 👯 I’m looking to collaborate on  software development 
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
 - 🧿 I am eager to discover and learn new things.
 - 😊 Curious to know more about me  👉🏽 [🌐](https://monesh-gomo.web.app/)
