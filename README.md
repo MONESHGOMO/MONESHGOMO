@@ -22,7 +22,7 @@
 <p>
   <!-- Programming Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,py&theme=dark"/>
   </a>
 </p>
 <p>
