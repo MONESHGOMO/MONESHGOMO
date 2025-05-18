@@ -6,6 +6,7 @@
 -  ⚡ I'm currenlty learning DSA 
 - 👯 I’m looking to collaborate on SDE roles
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
+- Self taught Programmer 🙂
 - 😊 Curious to know more about me  
   <p >
   <a href="https://www.linkedin.com/in/moneshgomo/" target="_blank">
