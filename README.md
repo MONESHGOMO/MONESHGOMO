@@ -4,7 +4,7 @@
 - 🖥️ **to : Technology**
 -  🔭 I’m currently in my 2nd year, pursuing a degree in Information Technology.
 -  ⚡ I'm currenlty learning DSA 
-- 👯 I’m looking to collaborate on SDE roles
+- 👯 I’m looking to collaborate on SWE roles
 - 🤔 I’m looking for help with internship in Startups & Tech Gaints
 - Self taught Programmer 🙂
 - 😊 Curious to know more about me  
