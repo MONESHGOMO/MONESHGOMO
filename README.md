@@ -32,11 +32,21 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,firebase,netlify,postman,notion,ubuntu,windows&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,notion,ubuntu,windows&theme=dark"/>
+  </a>
+</p>
+
+### Deployment Tools 
+ [![Render Status](https://img.shields.io/badge/Render-Deployed-46E3B7?style=for-the-badge&logo=render)](https://blog-1fcl.onrender.com/home)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,netlify&theme=dark"/>
   </a>
 </p>
 
 
 ***
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moneshgomo&bg_color=171616&color=edd9ed&line=11c04e&point=28f0ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
