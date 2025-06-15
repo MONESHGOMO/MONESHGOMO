@@ -1,7 +1,7 @@
 ### Hi there 👋 it's me Monesh
 
 - 🔭 I’m currently in my 2nd year, pursuing a degree in Information Technology
-- 👯 I’m looking to collaborate on Backend and Devops roles
+- 👯 I’m looking to collaborate on Backend Development and Devops Engineer roles
 - 🤔 I’m looking for help with internships in Startups & Tech Giants
 - 🙂 Self-taught Programmer 
 - 😊 Curious to know more [about me 🌐](https://moneshgomo.netlify.app/)
@@ -19,7 +19,7 @@
 
 ### IDE, Tools & Dev Spec I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,notion,ubuntu,windows&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,docker,notion,ubuntu,windows&theme=dark"/>
 </p>
 
 ### Deployment Tools 
