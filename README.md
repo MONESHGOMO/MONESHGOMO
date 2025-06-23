@@ -1,7 +1,8 @@
 ### Hi there 👋 it's me Monesh
 
 - 🔭 I’m currently in my 2nd year, pursuing a degree in Information Technology  
-- 👯 I’m looking to collaborate on Backend Development and DevOps Engineer roles  
+- 👯 I’m looking to collaborate on Backend Development and DevOps Engineer roles
+- Currently learning Docker 
 - 🤔 I’m looking for help with internships in Startups & Tech Giants  
 - 🙂 Self-taught Programmer  
 - 😊 Curious to know more [about me 🌐](https://moneshgomo.netlify.app/)
