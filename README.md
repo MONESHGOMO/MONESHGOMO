@@ -18,7 +18,7 @@
 ### I code in
 <p>
   <!-- ❌ No links here -->
-  <img src="https://skillicons.dev/icons?i=java,py,html,css,js,php,spring,maven,git,mysql,postgres&theme=dark" alt="Languages & Tools"/>
+  <img src="https://skillicons.dev/icons?i=java,py,html,css,js,php,spring,laravel,maven,git,mysql,postgres&theme=dark" alt="Languages & Tools"/>
 </p>
 
 ### IDE, Tools & Dev Spec I Use
