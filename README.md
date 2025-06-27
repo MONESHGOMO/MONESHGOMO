@@ -1,6 +1,6 @@
 ### Hi there 👋 it's me Monesh
 
-- 🔭 I’m currently in my 2nd year, pursuing a degree in Information Technology  
+- 🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology  
 - 👯 I’m looking to collaborate on Backend Development and DevOps roles
 - 🤔 I’m looking for help with internships in Startups & Tech Giants  
 - 🙂 Self-taught Programmer  
