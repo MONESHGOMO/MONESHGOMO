@@ -1,10 +1,12 @@
-### Hi there 👋 it's me Monesh
+<h2 style="font-size: 26px; font-family: sans-serif;">Hi there 👋 it's me Monesh</h2>
 
-- 🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology  
-- 👯 I’m looking to collaborate on Backend Development roles
-- 🤔 I’m looking for help with internships
-- 🙂 Self-taught Programmer  
-- 😊 Curious to know more [about me 🌐](https://moneshgomo.netlify.app/)
+<ul style="font-size: 18px; font-family: sans-serif;">
+  <li>🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology</li>
+  <li>👯 I’m looking to collaborate on Backend Development roles</li>
+  <li>🤔 I’m looking for help with internships</li>
+  <li>🙂 Self-taught Programmer</li>
+  <li>😊 Curious to know more <a href="https://moneshgomo.netlify.app/" target="_blank">about me 🌐</a></li>
+</ul>
 
 <p>
   <!-- ✅ Only this LinkedIn icon is a link -->
