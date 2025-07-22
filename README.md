@@ -1,6 +1,6 @@
-<h2 style="font-size: 26px; font-family: sans-serif;">Hi there 👋 it's me Monesh</h2>
+<h2>Hi there 👋 it's me Monesh</h2>
 
-<ul style="font-size: 18px; font-family: sans-serif;">
+<ul>
   <li>🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology</li>
   <li>👯 I’m looking to collaborate on Backend Development roles</li>
   <li>🤔 I’m looking for help with internships</li>
