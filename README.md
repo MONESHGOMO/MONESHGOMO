@@ -25,7 +25,7 @@
 
 ### IDE, Tools & Dev Spec I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,notion,docker,ubuntu,windows&theme=dark" alt="Tools & IDEs"/>
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,docker,notion,ubuntu,windows&theme=dark" alt="Tools & IDEs"/>
 </p>
 
 ### Deployment Tools  
