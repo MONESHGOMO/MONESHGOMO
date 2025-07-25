@@ -2,12 +2,13 @@
 
 <ul>
   <li>🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology</li>
+    <li>🌱 Iam Currently learning DSA </li>
   <li>👯 I’m looking to collaborate on Backend Development roles</li>
-  <li>🤔 I’m looking for help with internships</li>
   <li>🙂 Self-taught Programmer</li>
+  <li>💻 Junior Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow</li>
   <li>😊 Curious to know more <a href="https://moneshgomo.netlify.app/" target="_blank">about me 🌐</a></li>
 </ul>
-<br>
+
 <a href="https://www.linkedin.com/in/moneshgomo" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
@@ -33,6 +34,7 @@
     <img src="https://img.shields.io/badge/Render-Deployed-46E3B7?style=for-the-badge&logo=render" alt="Render Badge" />
   </a>
 </p>
+<br>
 
 
 <!-- 📈 Activity Graph -->
