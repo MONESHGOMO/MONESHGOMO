@@ -31,7 +31,8 @@
 ### Deployment Tools  
 <!-- ✅ Keep Render badge link, but no links on icons -->
 [![Render Status](https://img.shields.io/badge/Render-Deployed-46E3B7?style=for-the-badge&logo=render)](https://blog-1fcl.onrender.com/home)
-
+<p>    <img src="https://cdn.brandfetch.io/idXBJEbkqC/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668013474094" width="50px" height="50px" style="margin-right: 15px;" />
+</p>
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,netlify&theme=dark" alt="Deployment Tools"/>
 </p>
