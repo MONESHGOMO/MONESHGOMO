@@ -22,7 +22,7 @@
 
 ### IDE, Tools &    Dev Specs
 <p>
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,notion,linux,&theme=dark" alt="Tools & IDEs" />
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,notion,ubuntu,&theme=dark" alt="Tools & IDEs" />
 </p>
 
 ### Deployment Tools  
