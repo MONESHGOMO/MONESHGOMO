@@ -10,31 +10,51 @@
 </ul>
 
 <a href="https://www.linkedin.com/in/moneshgomo" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
 </a>
 
-***
-
 ### I code in  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css,spring,laravel,maven,git,docker,mysql,postgres&theme=dark" alt="Languages & Tools" />
+<p style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly;">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="Postgres" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />&nbsp;&nbsp;
+
 </p>
 
-### IDE, Tools &    Dev Specs
-<p>
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,postman,notion,linux,&theme=dark" alt="Tools & IDEs" />
+### IDE & Tools I Use  
+<p style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="Pycharm" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://cdn.brandfetch.io/idXBJEbkqC/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668013474094" width="50" height="50" alt="Unknown Deployment Tool" />&nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" />
+&nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow Badge" />
 </p>
 
-### Deployment Tools  
-<p >
-  
-  <img src="https://cdn.brandfetch.io/idXBJEbkqC/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668013474094" width="50" height="50"  />
-  <img src="https://skillicons.dev/icons?i=firebase,netlify&theme=dark" alt="Deployment Tools" />
-  <a href="https://blog-1fcl.onrender.com/home" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/Render-Deployed-46E3B7?style=for-the-badge&logo=render" alt="Render Badge" />
-  </a>
-</p>
-<br>
+
+<BR>
+
 
 
 <!-- 📈 Activity Graph -->
