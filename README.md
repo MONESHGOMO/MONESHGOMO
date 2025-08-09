@@ -1,17 +1,17 @@
 <h2>Hi there 👋 it's me Monesh</h2>
 
-<ul>
-  <li>🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology</li>
-    <li>🌱 Iam Currently learning DSA </li>
-  <li>👯 I’m looking to collaborate on Backend Development roles</li>
-  <li>🙂 Self-taught Programmer</li>
-  <li>💻 Junior Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow</li>
-  <li>😊 Curious to know more <a href="https://moneshgomo.netlify.app/" target="_blank">about me 🌐</a></li>
-</ul>
+- 🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology  
+- 🌱 I am currently learning DevOps  
+- 🙂 Self-taught Programmer  
+- 🗨️ Ask me about Backend Development & DevOps  
+- 💻 Junior Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow  
+- 😊 Curious to know more: [My Portfolio 🌐](https://moneshgomo.netlify.app/)  
+- 📄 My Resume: [Download Resume](https://drive.google.com/file/d/110Nx9VDkgu4zQ6uMonJ3fm9O4L1LVu6q/view)  
+- Reach me on 
 
-<a href="https://www.linkedin.com/in/moneshgomo" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
-</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/moneshgomo"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:moneshprogrammer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Email" /></a>
+
 
 ### I code in  
 <p style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly;">
@@ -30,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />&nbsp;
 
 </p>
 
@@ -52,11 +51,13 @@
   <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow Badge" />
 </p>
 
+### 🧑‍💻 OS
+  <p>
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=windows" alt="Linux" width="50" height="50" />&nbsp;
+  </p>
 
-<BR>
+  
 
-
-![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MONESHGOMO&show_icons=true&theme=dark)
-
-<!-- 📈 Activity Graph -->
+### My Stats 📈 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moneshgomo&bg_color=171616&color=edd9ed&line=11c04e&point=28f0ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
