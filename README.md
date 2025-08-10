@@ -1,13 +1,16 @@
 <h2>Hi there 👋 it's me Monesh</h2>
 
-- 🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology  
-- 🌱 I am currently learning DevOps  
-- 🙂 Self-taught Programmer  
-- 🗨️ Ask me about Backend Development & DevOps  
-- 💻 Junior Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow  
-- 😊 Curious to know more: [My Portfolio 🌐](https://moneshgomo.netlify.app/)  
-- 📄 My Resume: [Download Resume](https://drive.google.com/file/d/110Nx9VDkgu4zQ6uMonJ3fm9O4L1LVu6q/view)  
-- Reach me on 
+<ul>
+  <li>🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology</li>
+  <li>🌱 I am currently learning DevOps</li>
+  <li>🙂 Self-taught Programmer</li>
+  <li>🗨️ Ask me about Backend Development & DevOps</li>
+  <li>💻 Junior Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow</li>
+  <li>😊 Curious to know more: <a href="https://moneshgomo.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio 🌐</a></li>
+  <li>📄 My Resume: <a href="https://drive.google.com/file/d/110Nx9VDkgu4zQ6uMonJ3fm9O4L1LVu6q/view" target="_blank" rel="noopener noreferrer">Download Resume</a></li>
+  <li>Reach me on</li>
+</ul>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/moneshgomo"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:moneshprogrammer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Email" /></a>
