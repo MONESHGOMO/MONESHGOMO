@@ -55,7 +55,7 @@
 
 ### 🧑‍💻 OS
   <p>
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Linux" width="50" height="50" />&nbsp;
     <img src="https://skillicons.dev/icons?i=windows" alt="Linux" width="50" height="50" />&nbsp;
   </p>
 
