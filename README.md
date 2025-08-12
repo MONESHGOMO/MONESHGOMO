@@ -2,7 +2,6 @@
 
 <ul>
   <li>🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology</li>
-  <li>🌱 I am currently learning DevOps</li>
   <li>🙂 Self-taught Programmer</li>
   <li>🗨️ Ask me about Backend Development & DevOps</li>
   <li>💻 Junior Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow</li>
