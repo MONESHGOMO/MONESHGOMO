@@ -6,7 +6,6 @@
   <li>🗨️ Ask me about Backend Development & DevOps</li>
   <li>💻 Junior Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow</li>
   <li>😊 Curious to know more: <a href="https://moneshgomo.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio 🌐</a></li>
-  <li>📄 My Resume: <a href="https://drive.google.com/file/d/110Nx9VDkgu4zQ6uMonJ3fm9O4L1LVu6q/view" target="_blank" rel="noopener noreferrer">Download Resume</a></li>
   <li>Reach me on</li>
 </ul>
 
