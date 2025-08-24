@@ -1,8 +1,8 @@
 <h2>Hi there 👋 it's me Monesh</h2>
 
 <ul>
-  <li>🔭 I’m currently in my 3rd year, pursuing a degree in Information Technology</li>
   <li>🙂 Self-taught Programmer</li>
+  <li>🔭 I’m currently learning DSA & Devops  </li>
   <li>🗨️ Ask me about Backend Development & DevOps</li>
   <li>💻 Junior Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow</li>
   <li>😊 Curious to know more: <a href="https://moneshgomo.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio 🌐</a></li>
