@@ -10,8 +10,7 @@
 </ul>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/moneshgomo"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:moneshprogrammer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Email" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/moneshgomo"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" /></a>
 
 
 ### I code in  
