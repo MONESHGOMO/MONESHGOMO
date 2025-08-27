@@ -57,7 +57,23 @@
     <img src="https://skillicons.dev/icons?i=windows" alt="Linux" width="50" height="50" />&nbsp;
   </p>
 
-  
+<br>
 
 ### My Stats 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moneshgomo&bg_color=171616&color=edd9ed&line=11c04e&point=28f0ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://leetcard.jacoblin.cool/moneshprogrammer?theme=dark&font=Metrophobic" alt="Monesh LeetCode Stats" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=MONESHGOMO&show_icons=true&theme=dark" alt="Monesh GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+
+
