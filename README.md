@@ -42,7 +42,6 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="50" height="50" />&nbsp;
   <img src="https://cdn.brandfetch.io/idXBJEbkqC/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668013474094" width="50" height="50" alt="Unknown Deployment Tool" />&nbsp;
 
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" />
