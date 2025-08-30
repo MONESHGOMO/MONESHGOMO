@@ -33,7 +33,7 @@
 
 </p>
 
-### Building mt skills on 
+### Building my skills on 
 <a>
 <img width="50" height="50" alt="geeksforgeeks" src="https://github.com/user-attachments/assets/df5ec783-2c4b-421c-a0a7-de5df9c5a4dc" />&nbsp;
 <img width="50" height="50" alt="leetcode" src="https://github.com/user-attachments/assets/f94d2012-6cf0-4558-b8d0-b6ae32957c9e" />&nbsp;
