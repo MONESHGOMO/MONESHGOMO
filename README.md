@@ -33,6 +33,13 @@
 
 </p>
 
+### Building mt skills on 
+<a>
+<img width="50" height="50" alt="geeksforgeeks" src="https://github.com/user-attachments/assets/df5ec783-2c4b-421c-a0a7-de5df9c5a4dc" />&nbsp;
+<img width="50" height="50" alt="leetcode" src="https://github.com/user-attachments/assets/f94d2012-6cf0-4558-b8d0-b6ae32957c9e" />&nbsp;
+<img width="50" height="50" alt="hakerrank" src="https://github.com/user-attachments/assets/3ac351fd-33db-4b7e-9fa1-b47ff7348ebf" />
+</a>
+
 ### IDE & Tools I Use  
 <p style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />&nbsp;
@@ -48,15 +55,12 @@
 &nbsp;
 
   <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow Badge" />
-</p>
 
 ### 🧑‍💻 OS
   <p>
     <img src="https://skillicons.dev/icons?i=ubuntu" alt="Linux" width="50" height="50" />&nbsp;
     <img src="https://skillicons.dev/icons?i=windows" alt="Linux" width="50" height="50" />&nbsp;
   </p>
-
-<br>
 
 ### My Stats 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moneshgomo&bg_color=171616&color=edd9ed&line=11c04e&point=28f0ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -65,9 +69,9 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 10px;">
+<!--     <td align="center" style="padding: 10px;">
       <img src="https://leetcard.jacoblin.cool/moneshprogrammer?theme=dark&font=Metrophobic" alt="Monesh LeetCode Stats" />
-    </td>
+    </td> -->
     <td align="center" style="padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=MONESHGOMO&show_icons=true&theme=dark" alt="Monesh GitHub Stats" />
     </td>
