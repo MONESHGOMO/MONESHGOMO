@@ -2,7 +2,7 @@
 
 <ul>
   <li>🙂 Self-taught Programmer</li>
-  <li>🔭 I’m currently exploring System Design  </li>
+  <li>🔭 I’m currently learning DSA &  exploring System Design  </li>
   <li>🗨️ Ask me about Backend Development & DevOps</li>
   <li>💻 Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow</li>
   <li>😊 Curious to know more: <a href="https://moneshgomo.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio 🌐</a></li>
