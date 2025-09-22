@@ -27,9 +27,10 @@
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />&nbsp;
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />&nbsp; 	
 
 </p>
 
