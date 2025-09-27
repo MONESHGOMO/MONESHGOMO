@@ -4,6 +4,7 @@
   <li>🙂 Self-taught Programmer</li>
   <li>🔭 I’m currently learning DSA &  exploring System Design  </li>
   <li>🗨️ Ask me about Backend Development & DevOps</li>
+  <li>Looking for backend development internships 🚀</li>
   <li>💻 Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my development workflow</li>
   <li>😊 Curious to know more: <a href="https://moneshgomo.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio 🌐</a></li>
   <li>Reach me on</li>
