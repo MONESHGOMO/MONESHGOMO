@@ -18,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />&nbsp;
-  
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="Postgres" width="50" height="50" />&nbsp;
@@ -69,7 +68,7 @@
       <img src="https://leetcard.jacoblin.cool/moneshprogrammer?theme=dark&font=Metrophobic" alt="Monesh LeetCode Stats" />
     </td> -->
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MONESHGOMO&show_icons=true&theme=dark" alt="Monesh GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=moneshgomo&show_icons=true&theme=dark" alt="Monesh GitHub Stats" />
     </td>
   </tr>
 </table>
