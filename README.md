@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />&nbsp;
+  
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="Postgres" width="50" height="50" />&nbsp;
