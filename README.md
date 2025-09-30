@@ -15,7 +15,7 @@
 </a>
 
 
-### 🧑‍💻 Programming Languages & Frameworks
+###   I code in 
 <div >
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />&nbsp;&nbsp;
@@ -34,7 +34,7 @@
 
 
 
-### 🛠️ IDEs & Tools
+### 🛠️ IDEs & Tools i use 
 <div >
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50" />&nbsp;&nbsp;
@@ -51,7 +51,7 @@
 
 
 
-### 💻 Operating Systems
+### Operating Systems
 <div>
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="50" height="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50" />
@@ -59,7 +59,7 @@
 
 
 
-### 📊 My GitHub Stats
+###  My GitHub Stats
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moneshgomo&bg_color=171616&color=edd9ed&line=11c04e&point=28f0ed&area=true&hide_border=true)](https://github.com/moneshgomo)
 
 <table align="center">
