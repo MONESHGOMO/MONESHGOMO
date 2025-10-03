@@ -1,13 +1,12 @@
 
 <h2>Hi there 👋, I'm Monesh</h2>
 
-### About Me
 - 🙂 Self-taught Programmer  
 - 🔭 Currently learning **DSA** & exploring **System Design**  
 - 🗨️ Ask me about **Backend Development** & **DevOps**  
 - 🚀 Looking for **Backend Development internships**  
-- 💻 Backend Developer, 🚀 enhancing productivity by integrating AI into my workflow 
-- 😊 Curious to know more: [My Portfolio 🌐](https://moneshgomo.netlify.app/)
+- 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow 
+- 😊 Curious to know more: [**My Portfolio 🌐**](https://moneshgomo.netlify.app/)
 
 ### Connect with Me
 <a href="https://www.linkedin.com/in/moneshgomo" target="_blank" rel="noopener noreferrer">
