@@ -6,7 +6,7 @@
 - 🔭 Currently learning **DSA** & exploring **System Design**  
 - 🗨️ Ask me about **Backend Development** & **DevOps**  
 - 🚀 Looking for **Backend Development internships**  
-- 💻 Backend Developer, 🚀 enhancing productivity by 🤖 integrating AI into my workflow 
+- 💻 Backend Developer, 🚀 enhancing productivity by integrating AI into my workflow 
 - 😊 Curious to know more: [My Portfolio 🌐](https://moneshgomo.netlify.app/)
 
 ### Connect with Me
