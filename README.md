@@ -14,38 +14,38 @@
 </a>
 
 
-###   I code in 
-<div >
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="Postgres" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />&nbsp;&nbsp;
+###  I Code In
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
+  <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="Postgres" width="50" height="50" />
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
 </div>
 
 
 
-### 🛠️ IDEs & Tools i use 
-<div >
-  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow Badge" />
+###  IDEs & Tools I Use
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" height="40" />
+  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow Badge" height="40" />
 </div>
 
 
