@@ -13,8 +13,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" />
 </a>
 
-
-###  I Code In
+### I Code In
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />
@@ -32,11 +31,10 @@
 </div>
 
 
-
-###  IDEs & Tools I Use
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 15px;">
+### IDEs & Tools I Use
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50" />
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/cursor-ai.png" alt="cursor-ai" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />
@@ -44,9 +42,10 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" />
+  <img width="50" height="50" alt="colab-color" src="https://github.com/user-attachments/assets/9567f09a-69a3-4155-8b4e-1a236cc46751" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" height="40" />
-  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow Badge" height="40" />
 </div>
+
 
 
 
