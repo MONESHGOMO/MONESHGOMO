@@ -1,5 +1,5 @@
 
-<h2>Hi there 👋, I'm Monesh</h2>
+<h2>Hi there 👋, I'm Monesh Aspiring Software Engineer from India </h2>
 
 - 🙂 Self-taught Programmer  
 - 🔭 Currently learning **DSA** & exploring **System Design**  
